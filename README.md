@@ -2,7 +2,7 @@
 ## Identitas
 - Nama  : Nayla Luthfiah Hanan
 - NIM   : 4243250054
-- Kelas : Ilmu Komputer D 24
+- Kelas : Ilmu Komputer D 2024
 
 ## Diagram kelas
 <img width="1898" height="2336" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/0dcc9c09-063d-4cc7-8ac5-92c6ea9be74a" />
